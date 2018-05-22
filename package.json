@@ -1,0 +1,11 @@
+{
+  "name": "react-native-console-log",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:acro5piano/react-native-console-log",
+  "author": "gosho-kazuya <ketsume0211@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "websocket": "^1.0.26"
+  }
+}
